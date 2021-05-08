@@ -1,3 +1,6 @@
 # Mi primer repositorio
-Prueba de inteligencia artificial
-Colocar numero favorito
+## Inteligencia artificial
+
+## Conceptos 
+
+Nube **bold text**.
