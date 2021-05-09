@@ -11,6 +11,14 @@
 
 
 ## Crear un repositorio
+#### Una vez se hagan cambios
+- Hay que guardar el archivo .md mediante un CTR+S
+- Cargar el archivo con cambios mediante add
+- Realizar un commit para hacer el corte de lo que tenemos modificado
+- Mandar un push para actualizar nuestro GitHub
+
+#### Utilizar push para subir los nuevos cambios
+####
 Para crear hipervincluloas, poner entre corchetes [] lo que se desea ver en el hipervinculo, despues dentro de unos parentesis () colo colocamos el link que deseemos ligar al hiperviculo.
 
 ## Conceptos utiles
