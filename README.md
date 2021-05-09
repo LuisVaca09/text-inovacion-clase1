@@ -6,7 +6,7 @@
 1. [Consejos para el uso de GitHub](#crear-un-repositorio)
 2. [Conceptos utiles](#conceptos-utiles)
 3. [Modelos de servicio en la nube](#modelos-de-servicio-en-la-nube)
-4. [Modelos de implementación en la nube](#modelos-de-implementacon-en-la-nube)
+4. [Modelos de implementación en la nube](#modelos-de-implementación-en-la-nube)
 5. [Gastos de capital y de operaciones](#gastos-de-capital-y-de-operaciones)
 
 
@@ -38,9 +38,6 @@ Conocido como servicio en la nube, es una tecnologia que permite acceder remotea
 ### Maquina virtual
 Es un software que puede hacerse pasar por una PC. En ella se emula un ordenador completo.
 ![](https://comofriki.com/wp-content/uploads/2017/09/Maquina_Virtual-201.jpg)
-
-*Ejemplo*
-![](https://miracomosehace.com/wp-content/uploads/2020/07/logo-de-computador-virtual.jpg)
 
 ### Inteligencia artificial.
 Es la combinación de algoritmos planteados con el proposito de crear maquinas que presenten las mismas capacidades que un ser humano.  Su finalidad es el aprendizaje automatico.
