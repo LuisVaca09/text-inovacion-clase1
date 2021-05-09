@@ -10,47 +10,41 @@
 5. [Gastos de capital y de operaciones](#gastos-de-capital-y-de-operaciones)
 
 
-## Crear un repositorio
-#### Una vez se hagan cambios
-- Hay que guardar el archivo .md mediante un CTR+S
-- Cargar el archivo con cambios mediante add
-- Realizar un commit para hacer el corte de lo que tenemos modificado
-- Mandar un push para actualizar nuestro GitHub
+## Consejos para el uso de GitHub
 
-#### Utilizar push para subir los nuevos cambios
-####
-Para crear hipervincluloas, poner entre corchetes [] lo que se desea ver en el hipervinculo, despues dentro de unos parentesis () colo colocamos el link que deseemos ligar al hiperviculo.
+#### Conservar cambios de un repositorio
+- Una vez se a creado nuestro repositorio y hemos logrado realizar nuestro primer commit y vinvularlo a la nube de GitHub, debemos de seguir algunos pasos para conservar los futuros cambios que generemos al archivo de manera local.
+- Hay que guardar el archivo README.md mediante un CTR+S.
+- Despues debemos cargar el archivo .md con los cambios que deseemos conservar mediante el uso de add. *Ejemplo*: git add .
+- Realizar un commit para hacer el corte de lo que tenemos modificado. *Ejemplo*: git commit -m "Modificacion 2"
+- Mandar un push para actualizar nuestro GitHub. *Ejemplo*: git push -u origin main
+- Con esto nuestro repositorio en la nube se actualizara.
+
+#### Uso de corchetes
+##### Hipervinculos
+Para crear hipervincluloas, poner entre corchetes [] lo que se desea ver en el hipervinculo, despues dentro de unos parentesis () solo colocamos el link o el texto que deseemos ligar al hiperviculo.
+
+##### Insertar imagenes
+Para adjuntar alguna imagen, debemos de cerrar un signo de admiracion ! seguido de un par de corchetes, dentro de ellos colocaremos el nombre que identifica a la imagen, y despues un par de parentesis que encierren el link o ubicacion de la imagen a insertar.
 
 ## Conceptos utiles
-### Software
-Es la parte intangible del ordenador, permite que los diferentes componentes de hadware funcionen. 
-*Ejemplos*
-![](https://lh3.googleusercontent.com/proxy/Ww_chatoNnF-ekj6IpgGdzD5aRWZngRkM-dQ6Xz8Rtf3Da1iMW1BWOYR010tA7FkZHeCpqKUFbesu8X4fYw-MDo)
-
-### Hardware
-Es el soporte físico sobre el que se instala, opera y funciona cualquier software. Sin un hadware, el software no funciona.
-*Ejemplos*
-![](https://concepto.de/wp-content/uploads/2014/10/hardware-e1551046878558.jpg)
-
-### Sistema operativo (OS)
-Un OS es el software más importante que se ejecuta en una computadora, se encarga de coordinar todos los servicios y aplicaciones que se utilizan.
-![](https://www.areatecnologia.com/informatica/imagenes/so.jpg)
-
 ### Nube
 Conocido como servicio en la nube, es una tecnologia que permite acceder remoteamente desde cualquier parte del mundo en el momento que se solicite a software, almacenamiento de archivos y procesamiento de datos a traves de internet.
 ![](https://www.enter.co/wp-content/uploads/2018/09/Cloud-1-768x432.jpg)
+
 *Ejemplos*
 ![](https://www.grupocarac.es/wp-content/uploads/2020/02/ejemplos_cloud-1024x239.jpg)
 
 ### Maquina virtual
 Es un software que puede hacerse pasar por una PC. En ella se emula un ordenador completo.
 ![](https://comofriki.com/wp-content/uploads/2017/09/Maquina_Virtual-201.jpg)
+
 *Ejemplo*
 ![](https://miracomosehace.com/wp-content/uploads/2020/07/logo-de-computador-virtual.jpg)
 
 ### Inteligencia artificial.
-Su finalidad es el aprendizaje automatica.
-*Ejemplo*: Parte de los algoritmos implementados en las recomendaciones de YT permite sugeir aquel video que te sera tu nuevo videos favoritos, a la par de saber en que horario del día es el tipo de musica que escucharas en Spotify.
+Es la combinación de algoritmos planteados con el proposito de crear maquinas que presenten las mismas capacidades que un ser humano.  Su finalidad es el aprendizaje automatico.
+*Ejemplo*: Parte de los algoritmos implementados en las recomendaciones de YouTube permite sugerir ese video que se convertira en nuestro nuevo video favorito, mediante predicciones el algoritmo aprende de nuestros gustos y mejora conforme acierta en ellos.
 ![](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/inteligencia_artificial_1_res/Inteligencia_746x419.jpeg)
 
 
